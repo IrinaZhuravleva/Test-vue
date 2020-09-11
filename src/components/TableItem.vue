@@ -17,6 +17,7 @@
 
 <script>
 export default {  
+    // props: ['lessons'],
     props: {
         lesson: {
             type: Object,

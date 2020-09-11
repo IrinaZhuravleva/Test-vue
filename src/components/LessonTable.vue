@@ -7,7 +7,6 @@
             
             />
     </tbody>
-
 </template>
 
 <script>
