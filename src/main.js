@@ -1,3 +1,4 @@
+// http://irina-vue-testovoe.surge.sh/timetable
 import Vue from 'vue'
 import Vuex from 'vuex';
 import App from './App.vue'
